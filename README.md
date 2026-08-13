@@ -1,4 +1,4 @@
-
+Tableau link :https://public.tableau.com/app/profile/rod.toug/viz/Book1_17841606116490/Dashboard1
 Introduction 
 
 "Hello everyone. In this dashboard, I analyzed the online retail sales data to answer four business questions from the CEO and CMO. The analysis focuses on revenue trends, top customers, international markets, and product demand to support business decision-making."
@@ -22,3 +22,4 @@ Introduction
 Conclusion 
 
 "Overall, the analysis reveals clear seasonal sales patterns, valuable customer segments, and strong international markets. These insights can support better forecasting, improve customer retention, and guide future business expansion. Thank you."
+
